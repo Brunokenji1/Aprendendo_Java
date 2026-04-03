@@ -1,9 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="07b73c69-e4fb-4007-8bbb-5bef4ba8b072" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/projetos/primeiro_projeto/src/Condicional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/primeiro_projeto/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/primeiro_projeto/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/.idea/projetos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/minhasmusicasfinal1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/src/br/com/alura/minhasmusicasfinal1/models/Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/src/br/com/alura/minhasmusicasfinal1/models/MinhasPreferidas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/src/br/com/alura/minhasmusicasfinal1/models/Musica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/src/br/com/alura/minhasmusicasfinal1/models/Podcast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/minhasmusicas/src/br/com/alura/minhasmusicasfinal1/principal/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/primeiro_projeto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/primeiro_projeto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/primeiro_projeto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/primeiro_projeto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/primeiro_projeto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/primeiro_projeto/primeiro_projeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/primeiro_projeto/src/Condicional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/primeiro_projeto/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/primeiro_projeto/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/screenmatch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/calculos/Classificavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/calculos/Classificavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/calculos/FiltroRecomendacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/calculos/FiltroRecomendacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/modelos/Episodio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/modelos/Episodio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/modelos/Filme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/modelos/Serie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/test/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/test/test.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +70,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="38tPqtm4BN3eQ6Bke1kDzRrjsoZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +82,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
