@@ -6,7 +6,7 @@ Repositório de estudos e projetos práticos em Java, desenvolvido como parte da
 
 ## 👨‍💻 Autor
 
-**[SEU NOME AQUI]**  
+Bruno Kenji Okamoto 
 github.com/Brunokenji1
 
 ---
