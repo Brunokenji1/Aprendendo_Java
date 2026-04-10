@@ -1,0 +1,18 @@
+[
+  {
+    "Nome": "Matrix",
+    "Duracao": 60,
+    "AnoDeLancamento": 1993,
+    "IncluidoNoPlano": false,
+    "SomaAvaliacao": 0.0,
+    "TotalDeAvaliacao": 0
+  },
+  {
+    "Nome": "The Avengers",
+    "Duracao": 14,
+    "AnoDeLancamento": 2012,
+    "IncluidoNoPlano": false,
+    "SomaAvaliacao": 0.0,
+    "TotalDeAvaliacao": 0
+  }
+]
