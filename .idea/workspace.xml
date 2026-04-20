@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07b73c69-e4fb-4007-8bbb-5bef4ba8b072" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ACTIVITIES/ControleFinanceiro/src/br/com/bruk/modelos/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACTIVITIES/ControleFinanceiro/src/br/com/bruk/modelos/Credito.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PROJECTS/screenmatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECTS/screenmatch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROJECTS/screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECTS/screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +96,7 @@
       <workItem from="1775254379203" duration="2501000" />
       <workItem from="1775313454445" duration="5581000" />
       <workItem from="1775437605390" duration="691000" />
+      <workItem from="1776262631271" duration="231000" />
     </task>
     <servers />
   </component>
